@@ -1,0 +1,12 @@
+INFO     common.recordlog:Sendrequests.py:48 接口名称：/dar/user/deleteUser
+INFO     common.recordlog:Sendrequests.py:49 接口请求地址：http://127.0.0.1:8787/dar/user/deleteUser
+INFO     common.recordlog:Sendrequests.py:50 请求方法：post
+INFO     common.recordlog:Sendrequests.py:51 测试用例名称：用户删除
+INFO     common.recordlog:Sendrequests.py:52 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO     common.recordlog:Sendrequests.py:53 cookies：{'session': '68342hhhb984367'}
+ERROR    common.recordlog:Sendrequests.py:66 the JSON object must be str, bytes or bytearray, not dict
+INFO     common.recordlog:Sendrequests.py:24 接口的实际返回信息为： : {"error_code":null,"msg":"删除成功!","msg_code":200}
+
+INFO     common.recordlog:assertions.py:133 yaml文件的预期结果：[{'eq': {'msg': '删除成功!'}}]
+INFO     common.recordlog:assertions.py:72 相等断言成功：接口实际结果：{'msg': '删除成功!'}，等于预期结果：{'msg': '删除成功!'}
+INFO     common.recordlog:assertions.py:156 测试成功

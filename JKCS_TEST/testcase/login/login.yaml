@@ -1,0 +1,22 @@
+- baseInfo:
+    api_name: 用户登录
+    url: /dar/user/login
+    method: post
+    token: ${get_ex_data(token)}
+    header:
+      Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    cookies:
+      session: 68342hhhb984367
+
+  testcase:
+    - case_name: 用户名和密码正确登录验证
+      data:
+        user_name: test01
+        passwd: ${md5_parame(123)}
+      validation:
+       - contains: {'msg': '登录成功'}
+      extract:
+#        通过正则表达式进行提取接口返回值，写入到Exexcart.yaml文件中
+#        token: '"token":"(.*?)"'
+#        通过JSON提取器进行提取Token
+        token: $.token

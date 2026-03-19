@@ -1,0 +1,15 @@
+INFO     common.recordlog:Sendrequests.py:48 接口名称：/dar/user/login
+INFO     common.recordlog:Sendrequests.py:49 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO     common.recordlog:Sendrequests.py:50 请求方法：post
+INFO     common.recordlog:Sendrequests.py:51 测试用例名称：用户名和密码正确登录验证
+INFO     common.recordlog:Sendrequests.py:52 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO     common.recordlog:Sendrequests.py:53 cookies：{'session': '68342hhhb984367'}
+ERROR    common.recordlog:Sendrequests.py:66 the JSON object must be str, bytes or bytearray, not dict
+INFO     common.recordlog:Sendrequests.py:23 cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3Mzg5MDQ0NiwianRpIjoiNjdmM2JhYTEtNThlMC00M2JlLTkxZGEtYjljYzczYzdmMDcyIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3Mzg5MDQ0NiwiZXhwIjoxNzczODkxMzQ2fQ.hDOy4GExmu4vE4UH1tgxoRyGjJW0jtBFdeYfFfPRKL8'}}
+INFO     common.recordlog:Sendrequests.py:24 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"BEBdD2dc4Edc7B17348C44e34d2B1","userId":"5223995268144903806"}
+
+INFO     common.recordlog:apiutil.py:152 提取接口的返回值：
+INFO     common.recordlog:assertions.py:133 yaml文件的预期结果：[{'eq': {'msg': '登录成功'}}, {'db': "select  deptno , avg(salary) avg_salary from emp where gender='female' group by deptno order by avg_salary desc"}]
+INFO     common.recordlog:assertions.py:72 相等断言成功：接口实际结果：{'msg': '登录成功'}，等于预期结果：{'msg': '登录成功'}
+ERROR    common.recordlog:assertions.py:151 请检查断言字段是否包含在接口的返回值中
+ERROR    common.recordlog:assertions.py:152 异常信息：'cryptography' package is required for sha256_password or caching_sha2_password auth methods

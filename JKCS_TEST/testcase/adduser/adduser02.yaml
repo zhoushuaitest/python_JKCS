@@ -1,0 +1,23 @@
+- baseInfo:
+    api_name: 添加用户
+    url: /dar/user/addUser
+    method: post
+    token: ${get_ex_data(token)}
+    header:
+      Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    cookies:
+      session: 68342hhhb984367
+
+  testcase:
+    - case_name: 用户名和密码正确登录验证
+      data:
+        username: testadduser
+        password: ${md5_parame(123)}
+        role_id: 123356789
+        dates: 20231231
+        phone: 13800000000
+        token: ${get_extract_data(token)}
+      validation:
+        - contains: {'msg': '添加成功'}
+      extract:
+        token: '"token":"(.*?)"'

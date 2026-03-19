@@ -1,0 +1,119 @@
+INFO - 2026-03-15 15:25:12,330 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 15:25:12,334 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"F5F2e5ca5D0B5d8b7C1fdAA57Fd42","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 16:47:04,685 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 16:47:04,692 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"e67e9BCf9368Aa299Cc2Fc9b83b1e","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 16:59:20,984 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 16:59:20,989 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"F8ef1519Eee65dF691CAD0AAFE084","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:01:19,520 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:01:19,525 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"6106f6166abCE975cD7ABfafB07Ec","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:09:24,246 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:09:24,250 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"B9B6b1624E58aA931A0b53AaeCF35","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:17:11,580 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:17:11,585 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"3FDEfCD7fAeac85646E82b0E1CEc3","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:21:12,961 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:21:12,966 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"6DB1CE2c455d67FdaBBeC4ED2Ff62","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:26:49,584 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:26:49,590 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"6FbE61ea03b0C95d81FAcFaC046DF","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:42:22,648 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:42:22,655 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"ec2de3FB4FEb7bAF4cB0dEb28acFD","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:44:09,638 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:44:09,644 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"B4ecDe26c3C4EDc5947Ed1A4eC2a4","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:45:08,065 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:45:08,070 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"40eCE1bDFFbFbf25c1FedaAfc5aba","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 17:45:42,960 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 17:45:42,965 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"167CcC32B4c6a3eA930fAf8b6d7ad","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 18:18:46,211 - test_login.py:23 -[test_login:test_login1] - /dar/user/login
+INFO - 2026-03-15 18:28:36,438 - test_login.py:23 -[test_login:test_login1] - /dar/user/login
+INFO - 2026-03-15 18:33:12,731 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 18:33:12,738 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"3946F8149bea52FAA7B7d70C3E867","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 18:35:06,481 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 18:35:06,487 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"f4885DDfad46d975571aD5Aa715DF","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 18:35:44,590 - test_login.py:23 -[test_login:test_login1] - http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-15 18:35:44,595 - test_login.py:31 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"8CD6A1E0CfA1E6d557f43AA4d50F6","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:03:15,974 - test_login.py:32 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"Aa64c532852A9470df5dFA7b8BC8E","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:05:39,048 - test_login.py:32 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"038C5E748bdf9bbbAFf5B5bcaD6d4","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:11:50,580 - test_login.py:32 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"CCDb359BFc07EbC75Ab7bb1AFF816","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:14:40,967 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"dFE31D4aec0F7F6E810aC2a4BfB1C","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:15:28,382 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"7B74Bc7F6cA4B3FcF7B5fD609C32C","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:16:45,546 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"Af15A8D19b37E0fcEE5AeF37b1f6a","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:24:23,185 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"3e76beafd9BE872Cf7Ce10a8d4dB1","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:24:25,191 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 19:25:23,736 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"95C1cD38b0E157F32f4e455fb6BfF","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 19:25:25,742 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 20:08:56,183 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"fA61cfB658fe10986E7bb445De94D","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 20:08:58,189 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 20:10:55,033 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"c210472e05EebEaAF87F8e6da6d64","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 20:10:57,039 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 20:13:21,854 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"B2019Ff0CF713f3Ae70c56dEd9Cf0","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 20:13:23,859 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 20:14:38,632 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"27AA56FFcdDA76ADe29D4ec6FA6A9","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 20:14:40,638 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 20:18:05,706 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"E0A0fFFf079B2Db2fcfcDBbeC4bC2","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 20:18:07,711 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 20:31:29,740 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"FAe84dDa8EFb797cDfF71dA8fcEEa","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 20:31:31,746 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 20:32:55,432 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"2a9b1c1d0cB7FBBaaBBF1d4CCCC1b","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 20:32:57,438 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 22:28:06,794 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"CcEC40AE631BD9dbAFDE4e9Db4e8B","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 22:28:08,800 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 22:29:49,787 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"eD1cC043ff71bB52e73135f595af2","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 22:29:51,793 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 22:31:34,382 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"0D67A3e6B10368fF3D7fCa7D8dEb8","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 22:31:36,387 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 22:36:33,195 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"A0e7866925B9b8Ff518c4664cd52B","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 22:36:35,200 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 22:42:57,497 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"cE3a7B7EC2dB3d3e7cBD0340cD93B","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 22:42:59,503 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-15 22:48:38,368 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"daAAd0c7bdD51a15c56ad04ABaEbf","userId":"8746024781449793095"}
+
+INFO - 2026-03-15 22:48:40,373 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+

@@ -1,0 +1,2 @@
+预期结果：{'api_type': 'pinduoduo'}
+实际结果：{'api_type': 'pinduoduo'}

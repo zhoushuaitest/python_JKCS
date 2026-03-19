@@ -1,0 +1,343 @@
+INFO - 2026-03-16 09:55:47,522 - test_login.py:34 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"EDE614Deb10e96F6Aa4dD4e8acBcf","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 09:55:49,528 - test_login.py:52 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-16 11:07:42,623 - test_login.py:36 -[test_login:test_login1] - {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"400854fe8c20FBbfCd1a2aca70294","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 11:07:44,628 - test_login.py:54 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-16 11:29:11,002 - test_login.py:55 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-16 12:23:23,638 - test_login.py:55 -[test_login:test_login2] - {"msg":"登录失败,用户名或密码错误","msg_code":9001,"token":null,"userId":null}
+
+INFO - 2026-03-16 15:59:31,272 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 15:59:31,272 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 15:59:31,272 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 15:59:31,272 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 15:59:31,272 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 15:59:31,272 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 15:59:31,272 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 16:03:31,122 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 16:03:31,122 - Sendrequests.py:50 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 16:03:31,122 - Sendrequests.py:51 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 16:03:31,122 - Sendrequests.py:52 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 16:03:31,122 - Sendrequests.py:53 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 16:03:31,122 - Sendrequests.py:54 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 16:03:31,122 - Sendrequests.py:67 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 16:04:22,575 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 16:04:22,575 - Sendrequests.py:50 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 16:04:22,575 - Sendrequests.py:51 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 16:04:22,575 - Sendrequests.py:52 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 16:04:22,575 - Sendrequests.py:53 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 16:04:22,575 - Sendrequests.py:54 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 16:04:22,575 - Sendrequests.py:67 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+ERROR - 2026-03-16 16:05:13,984 - Sendrequests.py:67 -[Sendrequests:run_main] - name 'name' is not defined
+INFO - 2026-03-16 16:06:02,407 - Sendrequests.py:50 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 16:06:02,407 - Sendrequests.py:51 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 16:06:02,407 - Sendrequests.py:53 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 16:06:02,407 - Sendrequests.py:54 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 16:06:02,407 - Sendrequests.py:67 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 16:16:08,354 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 16:16:08,355 - Sendrequests.py:50 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 16:16:08,355 - Sendrequests.py:51 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 16:16:08,355 - Sendrequests.py:52 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 16:16:08,355 - Sendrequests.py:53 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 16:16:08,355 - Sendrequests.py:54 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 16:16:08,355 - Sendrequests.py:67 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 16:31:57,038 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 16:31:57,038 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 16:31:57,038 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 16:31:57,038 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 16:31:57,039 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 16:31:57,039 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 16:31:57,039 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:03:38,985 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 17:03:38,985 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 17:03:38,985 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:03:38,985 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 17:03:38,985 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:03:38,985 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:03:38,985 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:03:38,990 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY1MTgxOCwianRpIjoiYTI4MWI1NzEtZWZjZC00YzE2LWJmZWYtYjEzNGU5YWVkNDZjIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY1MTgxOCwiZXhwIjoxNzczNjUyNzE4fQ.JX8f86hmJ-9ZuH5LlP7Hn9hzGY1m9rq668-LbrRZGjQ'}}
+INFO - 2026-03-16 17:03:38,990 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"98aeaFa6D3F5EaBafA1cd03A1f57b","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 17:05:56,637 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 17:05:56,637 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 17:05:56,637 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:05:56,637 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 17:05:56,637 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:05:56,637 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:05:56,637 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:05:56,641 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY1MTk1NiwianRpIjoiMzYyYTgxZmItZmQ3Mi00NjM3LTg3ZjYtODQ0OWJhZTkzOWQyIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY1MTk1NiwiZXhwIjoxNzczNjUyODU2fQ.91vRBqC-LRb-6xzKV8ZuC4relu0s7hyxGSZo65emOVw'}}
+INFO - 2026-03-16 17:05:56,641 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"2C869Bc7F654Fe7d28CeCd82d82eE","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 17:07:43,505 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 17:07:43,506 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 17:07:43,506 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:07:43,506 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 17:07:43,506 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:07:43,506 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:07:43,506 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:07:43,512 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY1MjA2MywianRpIjoiZTk5YjE1MjctZjQ0NS00MjBjLTgxODYtMDQyN2VmZTdkNDZkIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY1MjA2MywiZXhwIjoxNzczNjUyOTYzfQ._cPl4m6NwK2oui-jMArZBVk6OkL4AoqyiYjJ93cYwlU'}}
+INFO - 2026-03-16 17:07:43,512 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"6ca3B0B778abCC6Fb7bb8ac899ff3","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 17:10:12,851 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 17:10:12,851 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 17:10:12,851 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:10:12,851 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 17:10:12,851 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:10:12,851 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:10:12,851 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:10:12,854 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 17:16:02,922 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 17:16:02,922 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 17:16:02,922 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:16:02,922 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 17:16:02,922 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:16:02,922 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:16:02,922 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:16:02,927 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY1MjU2MiwianRpIjoiN2M4MzE4ODItYTAyMS00OTZiLWJkNDMtZDIzY2ViNjQ3MThhIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY1MjU2MiwiZXhwIjoxNzczNjUzNDYyfQ.88yewEOTCigUl_3md41hAV2Cwa4qYfH-gmD_n71VIUY'}}
+INFO - 2026-03-16 17:16:02,927 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"D6ab9f3f10C8Df81eCc934e7BBfdF","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 17:16:04,930 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 17:16:04,930 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 17:16:04,930 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:16:04,930 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 17:16:04,930 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:16:04,930 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:16:04,930 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:16:04,933 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY1MjU2NCwianRpIjoiZTI1NzEwZDctMjQ2My00OGMxLTlmOWQtNDE4NTdhMmJkNWQ0IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY1MjU2NCwiZXhwIjoxNzczNjUzNDY0fQ.rcVbisOyo0Qo3xYT8pm-ad0-q5EjUsUqp2qAINDqAdM'}}
+INFO - 2026-03-16 17:16:04,933 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"2da3A8AC26daBBAeb5F483bB34b82","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 17:19:50,009 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 17:19:50,009 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 17:19:50,009 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:19:50,009 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 17:19:50,009 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:19:50,009 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:19:50,009 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:19:50,013 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 17:19:52,016 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 17:19:52,016 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 17:19:52,016 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 17:19:52,016 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 17:19:52,016 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 17:19:52,016 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 17:19:52,016 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 17:19:52,019 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY1Mjc5MiwianRpIjoiMzAxMGI3OGMtN2RhNi00NTJjLThlNjMtNzMxZDk2MTk1Njg4IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY1Mjc5MiwiZXhwIjoxNzczNjUzNjkyfQ.YM0RRLclgiJae_GYk2_FegzyWKfgfrc1Z0mlMZKxFUE'}}
+INFO - 2026-03-16 17:19:52,019 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"B508f47979441634e05c1acDd74B2","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 19:59:53,432 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 19:59:53,432 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 19:59:53,432 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 19:59:53,432 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 19:59:53,432 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 19:59:53,432 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 19:59:53,432 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 19:59:53,435 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 19:59:55,438 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 19:59:55,438 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 19:59:55,438 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 19:59:55,438 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 19:59:55,438 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 19:59:55,438 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 19:59:55,438 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 19:59:55,442 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2MjM5NSwianRpIjoiNzAzNjBjMDgtZGQ3Ni00NmIxLWE4MGYtM2VlYzE2ZTEwYzFiIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2MjM5NSwiZXhwIjoxNzczNjYzMjk1fQ.VbtlaDb0gzj5jqRNDk9enebtH9Q1VfXaE0WFHoChgOE'}}
+INFO - 2026-03-16 19:59:55,442 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"6C54bA6AFFf53CacF2E19c55a1d0d","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 20:59:00,517 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 20:59:00,518 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 20:59:00,518 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 20:59:00,518 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 20:59:00,518 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 20:59:00,518 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 20:59:00,518 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 20:59:00,522 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 20:59:02,525 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 20:59:02,525 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 20:59:02,525 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 20:59:02,525 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 20:59:02,525 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 20:59:02,525 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 20:59:02,525 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 20:59:02,528 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2NTk0MiwianRpIjoiZjEyNWI2Y2EtMDExOS00Yjc1LThjNWUtOTc1MGNiYTNhMjg1IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2NTk0MiwiZXhwIjoxNzczNjY2ODQyfQ.i1Iz8gyu5B-Bj22XiBeIJKy9FNYwLW1ifj9aW3AqEA8'}}
+INFO - 2026-03-16 20:59:02,528 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"a30FAbceC480F66D5E9f1A6B54D0E","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 21:21:15,465 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 21:21:15,465 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 21:21:15,465 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:21:15,465 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 21:21:15,466 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:21:15,466 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:21:15,466 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:21:15,470 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 21:21:17,472 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 21:21:17,472 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 21:21:17,473 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:21:17,473 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 21:21:17,473 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:21:17,473 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:21:17,473 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:21:17,476 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2NzI3NywianRpIjoiYTI0N2VjYjctYzAxOC00ODUyLWE4MzEtYzUxYjQ1ZDgxY2I2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2NzI3NywiZXhwIjoxNzczNjY4MTc3fQ.KS3JJti-V_6GtIumYIu_35sZzoaOh3mpYuuiOlr57Iw'}}
+INFO - 2026-03-16 21:21:17,476 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"0Bbde855c3A4E1CBcEc6aEf1BA8B2","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 21:21:19,479 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 21:21:19,479 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 21:21:19,479 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:21:19,479 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 21:21:19,479 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:21:19,479 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:21:19,479 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:21:19,487 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2NzI3OSwianRpIjoiMjI4MjliYmQtYjQxZC00ZDE2LWE2MjAtZDg2YjBhMDkwMmNkIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2NzI3OSwiZXhwIjoxNzczNjY4MTc5fQ.IGpuTSj7o21PfWkdjzTv2HSCVNYOS1RG2rbOx7_UpKk'}}
+INFO - 2026-03-16 21:21:19,487 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"aaD84Bca48b164D7059CC933bD7BE","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 21:51:41,347 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 21:51:41,347 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 21:51:41,347 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:51:41,347 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 21:51:41,347 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:51:41,347 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:51:41,347 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:51:41,352 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 21:51:43,355 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 21:51:43,355 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 21:51:43,355 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:51:43,355 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 21:51:43,355 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:51:43,355 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:51:43,355 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:51:43,358 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2OTEwMywianRpIjoiMjBhNzg4MWMtNTAwYi00OGY4LWFkZTktZTQ2NzMxOTc1OWNlIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2OTEwMywiZXhwIjoxNzczNjcwMDAzfQ.fRXc7wBfwC7icXNx2aQHB_hMi4u2Q4no9mx6IdkJ5NM'}}
+INFO - 2026-03-16 21:51:43,358 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"607E3C5dFD351de034Ba6EC414CBc","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 21:51:45,361 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 21:51:45,361 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 21:51:45,361 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:51:45,361 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 21:51:45,361 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:51:45,361 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:51:45,361 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:51:45,364 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2OTEwNSwianRpIjoiMWI2NmY0ZjctMmMwZS00NzFlLTliMGEtODA0NTg4N2I1MGMyIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2OTEwNSwiZXhwIjoxNzczNjcwMDA1fQ.JXL23XSLwQQmr3x5v2GDg69BICzK3WSIbY0CWcI-aQk'}}
+INFO - 2026-03-16 21:51:45,364 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"25B54e79a7daDc08BAEf6EfCfDCE8","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 21:59:30,879 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 21:59:30,879 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 21:59:30,879 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:59:30,879 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 21:59:30,879 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:59:30,879 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:59:30,879 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:59:30,883 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 21:59:32,886 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 21:59:32,886 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 21:59:32,886 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:59:32,886 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 21:59:32,886 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:59:32,886 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:59:32,886 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:59:32,889 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2OTU3MiwianRpIjoiOWQzYjM4MDQtMTZiZS00MjE5LWE4N2EtYmQ4NmE2Y2VlZGJmIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2OTU3MiwiZXhwIjoxNzczNjcwNDcyfQ.2rRA0oDrORu17Oq4OJrLxJO-LJWEgXSM93aupt9REDQ'}}
+INFO - 2026-03-16 21:59:32,889 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"2354df04d4aAea3a917FbEE7AEd25","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 21:59:34,892 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 21:59:34,892 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 21:59:34,892 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 21:59:34,892 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 21:59:34,892 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 21:59:34,892 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 21:59:34,892 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 21:59:34,895 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY2OTU3NCwianRpIjoiM2EzMDNlMjQtM2U0Zi00Yzg4LWE5YjAtZDViY2RjZmJiYjJjIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY2OTU3NCwiZXhwIjoxNzczNjcwNDc0fQ.yayhKkipYZ4Nxr-CwBnaMzDx5DY0-vjW2G-4qeqmK1I'}}
+INFO - 2026-03-16 21:59:34,895 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"FBC4BEfCBD6cA59ded7cEdD78bFB4","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 22:11:10,938 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 22:11:10,938 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 22:11:10,938 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 22:11:10,938 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 22:11:10,938 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 22:11:10,938 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 22:11:10,938 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 22:11:10,942 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 22:11:12,945 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 22:11:12,945 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 22:11:12,945 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 22:11:12,945 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 22:11:12,945 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 22:11:12,945 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 22:11:12,945 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 22:11:12,948 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY3MDI3MiwianRpIjoiNWRlOTI1OTctODc3ZS00MTQ5LWE2N2YtZTA1ZjE2MmQwOWExIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY3MDI3MiwiZXhwIjoxNzczNjcxMTcyfQ.7SKNu_Je1ZXBIM_mhbEzSjIJygtmIQro9Rb9NmksVM4'}}
+INFO - 2026-03-16 22:11:12,949 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"ffDE70C8eE9A3736c2dda8e51cF86","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 22:11:14,951 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 22:11:14,951 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 22:11:14,951 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 22:11:14,951 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 22:11:14,951 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 22:11:14,951 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 22:11:14,951 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 22:11:14,954 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY3MDI3NCwianRpIjoiODEwNGU1ZDYtNDBkNi00ZDhlLWIyMjItMmYxNDA2YjZmODA4IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY3MDI3NCwiZXhwIjoxNzczNjcxMTc0fQ.5gFV0Fffbj8KaW-xRDXeOHy_C1cj8V152x6r2wo89FQ'}}
+INFO - 2026-03-16 22:11:14,954 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"D35Ba45dF1EEC071Ae061ffD28D5b","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 22:17:48,603 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 22:17:48,603 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 22:17:48,603 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 22:17:48,603 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 22:17:48,603 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 22:17:48,603 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 22:17:48,604 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 22:17:48,608 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 22:17:50,611 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 22:17:50,611 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 22:17:50,611 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 22:17:50,611 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 22:17:50,611 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 22:17:50,611 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 22:17:50,611 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 22:17:50,614 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY3MDY3MCwianRpIjoiOTEzNmQ1ZDMtMjliNy00YTg5LWJlZDUtZTUwNTE0Y2QxNjBmIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY3MDY3MCwiZXhwIjoxNzczNjcxNTcwfQ.xVpMdYvvn8XSNJtRmtgGFt5Qc3E0xEBsAVedHZIgu6Q'}}
+INFO - 2026-03-16 22:17:50,614 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"20bc02Db80B0B4B8F0AD9dC5FA981","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 22:17:52,617 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 22:17:52,617 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 22:17:52,617 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 22:17:52,618 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 22:17:52,618 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 22:17:52,618 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 22:17:52,618 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 22:17:52,623 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY3MDY3MiwianRpIjoiYzdjMzljZGItNGM4MC00MzQ1LTg0NzUtNmVlOTcxOGU1NmRmIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY3MDY3MiwiZXhwIjoxNzczNjcxNTcyfQ.RVm1qAdVYgifZRjZF8QWjnrgZQ694wFRrpnh7uhhVQQ'}}
+INFO - 2026-03-16 22:17:52,623 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"4140913758110176843","token":"88791aF7CffAE58feC2f5ef77EF56","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 23:42:29,503 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/addUser
+INFO - 2026-03-16 23:42:29,503 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/addUser
+INFO - 2026-03-16 23:42:29,504 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 23:42:29,504 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：添加用户验证
+INFO - 2026-03-16 23:42:29,504 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 23:42:29,504 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 23:42:29,504 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 23:42:29,510 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"msg":"新增失败，参数缺失或token失效","msg_code":9001}
+
+INFO - 2026-03-16 23:42:31,513 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 23:42:31,513 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 23:42:31,513 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 23:42:31,513 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 23:42:31,513 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 23:42:31,513 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 23:42:31,513 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 23:42:31,517 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY3NTc1MSwianRpIjoiNTQyNDU4NmEtNTBmYy00NDQ2LThlMDYtNDY5NDE2MDBjOWI4IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY3NTc1MSwiZXhwIjoxNzczNjc2NjUxfQ.EGqdslm-OgEUhL5f8bnh0aRewUwPh51m8mBqTM-HRRU'}}
+INFO - 2026-03-16 23:42:31,517 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"63a9bAa7ADc9C454BA2AaA6Ed87De","userId":"5658978786212927168"}
+
+INFO - 2026-03-16 23:42:33,520 - Sendrequests.py:48 -[Sendrequests:run_main] - 接口名称：/dar/user/login
+INFO - 2026-03-16 23:42:33,520 - Sendrequests.py:49 -[Sendrequests:run_main] - 接口请求地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2026-03-16 23:42:33,520 - Sendrequests.py:50 -[Sendrequests:run_main] - 请求方法：post
+INFO - 2026-03-16 23:42:33,520 - Sendrequests.py:51 -[Sendrequests:run_main] - 测试用例名称：用户名和密码正确登录验证
+INFO - 2026-03-16 23:42:33,520 - Sendrequests.py:52 -[Sendrequests:run_main] - 请求头：{'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'}
+INFO - 2026-03-16 23:42:33,520 - Sendrequests.py:53 -[Sendrequests:run_main] - cookies：{'session': '68342hhhb984367'}
+ERROR - 2026-03-16 23:42:33,520 - Sendrequests.py:66 -[Sendrequests:run_main] - the JSON object must be str, bytes or bytearray, not dict
+INFO - 2026-03-16 23:42:33,524 - Sendrequests.py:23 -[Sendrequests:send_request] - cookie为 : {'Cookie': {'access_token_cookie': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc3MzY3NTc1MywianRpIjoiODY0ZDE0OTMtMmE4NS00NGUwLWFjMzEtZWE4MDc5NGJkNDM5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImV4YW1wbGVfdXNlciIsIm5iZiI6MTc3MzY3NTc1MywiZXhwIjoxNzczNjc2NjUzfQ.BPonqAV6Q1EDWl9Sxr_9IiRCuvzvww626OzqmEtG2AE'}}
+INFO - 2026-03-16 23:42:33,524 - Sendrequests.py:24 -[Sendrequests:send_request] - 接口的实际返回信息为： : {"error_code":null,"msg":"登录成功","msg_code":200,"orgId":"6140913758128971280","token":"bbFDf1BdA615518A9CFaDfE2e383B","userId":"5658978786212927168"}
+
